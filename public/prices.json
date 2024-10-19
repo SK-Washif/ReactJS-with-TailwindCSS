@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Basic",
+    "price": "$20/month",
+    "features": ["Gym Access", "Locker Room", "1 Class per Week"]
+  },
+  {
+    "id": 2,
+    "name": "Standard",
+    "price": "$40/month",
+    "features": ["Gym Access", "Locker Room", "Unlimited Classes", "Personal Trainer"]
+  },
+  {
+    "id": 3,
+    "name": "Premium",
+    "price": "$60/month",
+    "features": ["Gym Access", "Locker Room", "Unlimited Classes", "Personal Trainer", "Sauna Access", "Nutrition Plan"]
+  }
+]
